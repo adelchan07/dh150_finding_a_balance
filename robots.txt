@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adelchan07.github.io/dh150_websitewalkthrough/sitemap.xml
