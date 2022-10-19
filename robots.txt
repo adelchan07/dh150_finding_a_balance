@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://adelchan07.github.io/dh150_websitewalkthrough/sitemap.xml
+Sitemap: https://adelchan07.github.io/dh150_finding_a_balance/sitemap.xml
